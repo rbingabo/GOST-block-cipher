@@ -5,9 +5,9 @@ This is an encryption (decryption) program I wrote at my university within infor
 
 The program is about encrypting and decrypting files using GOST block cipher. it implements three working modes:
 
-data encryption (decryption) in the electronic codebook (ECB) mode,
-data encryption (decryption) in the counter (CNT) mode,
-data encryption (decryption) in the cipher feedback (CFB) mode.
+1. data encryption (decryption) in the electronic codebook (ECB) mode,
+2. data encryption (decryption) in the counter (CNT) mode,
+3. data encryption (decryption) in the cipher feedback (CFB) mode.
 
 How compile/run program:
 1.	Open the solution in Visual Studio
