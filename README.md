@@ -1,7 +1,7 @@
 # GOST-block-cipher
 GOST block cipher (GOST 28147-89) algorithm implementation using C++ language with WinApi UI.
 
-The GOST block cipher, defined in the standard GOST 28147-89 (RFC 5830), is a Soviet and Russian government standard symmetric key block cipher with the block size of 64 bits, published in 1989.
+The GOST block cipher, defined in the standard GOST 28147-89 (RFC 5830), is a Soviet and Russian government standard symmetric key block cipher with the block size of 64 bits, published in 1989 [Wikipedia].
 
 This is an encryption (decryption) program I wrote at my university within information security course.
 
